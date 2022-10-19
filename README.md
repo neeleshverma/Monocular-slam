@@ -50,13 +50,13 @@ python3 main.py
 
 ## Results
 ### Feature point tracking
-![2D](https://github.com/youknowwho-07/CV-Project/blob/master/2D.png)
+![2D](https://github.com/neeleshverma/CV-Project/blob/master/2D.png)
 
 ### 3D map construction
-![3D](https://github.com/youknowwho-07/CV-Project/blob/master/3D.png)
+![3D](https://github.com/neeleshverma/CV-Project/blob/master/3D.png)
 
 ### Pose tracking
-![pose](https://github.com/youknowwho-07/CV-Project/blob/master/pose.png)
+![pose](https://github.com/neeleshverma/CV-Project/blob/master/pose.png)
 
 ## References
 - A nice [gitgub repository](https://github.com/geohot/twitchslam) that has the implementation of monocular slam and a [youtube video](https://www.youtube.com/watch?v=7Hlb8YX2-W8&t=3022s&fbclid=IwAR03PKJjRhdYJNToQuG85p_t-NEvMCS-KuJ0ScR6q0I49SmKS40wzb48RIc) explaining the code by the same guy. 
